@@ -1,0 +1,14 @@
+/Users/bigslime/Desktop/dcit318-assignment1-11332199/bin/Debug/net8.0/dcit318-assignment1-11332199
+/Users/bigslime/Desktop/dcit318-assignment1-11332199/bin/Debug/net8.0/dcit318-assignment1-11332199.deps.json
+/Users/bigslime/Desktop/dcit318-assignment1-11332199/bin/Debug/net8.0/dcit318-assignment1-11332199.runtimeconfig.json
+/Users/bigslime/Desktop/dcit318-assignment1-11332199/bin/Debug/net8.0/dcit318-assignment1-11332199.dll
+/Users/bigslime/Desktop/dcit318-assignment1-11332199/bin/Debug/net8.0/dcit318-assignment1-11332199.pdb
+/Users/bigslime/Desktop/dcit318-assignment1-11332199/obj/Debug/net8.0/dcit318-assignment1-11332199.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bigslime/Desktop/dcit318-assignment1-11332199/obj/Debug/net8.0/dcit318-assignment1-11332199.AssemblyInfoInputs.cache
+/Users/bigslime/Desktop/dcit318-assignment1-11332199/obj/Debug/net8.0/dcit318-assignment1-11332199.AssemblyInfo.cs
+/Users/bigslime/Desktop/dcit318-assignment1-11332199/obj/Debug/net8.0/dcit318-assignment1-11332199.csproj.CoreCompileInputs.cache
+/Users/bigslime/Desktop/dcit318-assignment1-11332199/obj/Debug/net8.0/dcit318-assignment1-11332199.dll
+/Users/bigslime/Desktop/dcit318-assignment1-11332199/obj/Debug/net8.0/refint/dcit318-assignment1-11332199.dll
+/Users/bigslime/Desktop/dcit318-assignment1-11332199/obj/Debug/net8.0/dcit318-assignment1-11332199.pdb
+/Users/bigslime/Desktop/dcit318-assignment1-11332199/obj/Debug/net8.0/dcit318-assignment1-11332199.genruntimeconfig.cache
+/Users/bigslime/Desktop/dcit318-assignment1-11332199/obj/Debug/net8.0/ref/dcit318-assignment1-11332199.dll
